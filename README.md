@@ -16,16 +16,17 @@ ex: /var/www/public/drupal/themes/myboot >>>  config.rb
 > compass compile  ( compiler le SASS avec CSS )
 > drush cr  ( nettoyer le cache )
 
+
 -------------------------------------------
 
 Ex de config.rb   :
-
 
 http_path = "/"
 css_dir = "css" 
 sass_dir = "assets/sass"
 images_dir = "assets/images" 
 javascripts_dir = "js" 
+
 fonts_dir = "bootstrap/fonts/bootstrap" 
 generated_images_dir = "img" 
 
