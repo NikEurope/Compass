@@ -39,7 +39,7 @@ generated_images_dir = "img"
 
 Build a Drupal 8 Bootstrap Subtheme with SASS
 
-https://sevaa.com/blog/build-drupal-8-bootstrap-subtheme-sas
+https://sevaa.com/blog/build-drupal-8-bootstrap-subtheme-sass/
 
 
 
