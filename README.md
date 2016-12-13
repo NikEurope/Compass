@@ -43,3 +43,33 @@ https://sevaa.com/blog/build-drupal-8-bootstrap-subtheme-sass/
 
 
 
+--------------------------------------------
+
+##Intégration graphique avec Sass
+
+Installation :
+
+Ruby:
+
+sudo yum install ruby ruby-devel -y
+
+Compass:
+
+gem install compass
+
+gem install bootstrap-sass
+
+Compilation: dans le dossier du thème lancer la compilation
+
+cd themes/cnas
+
+compass compile
+
+
+Pour forcer la suppression des fichiers css et la recompilation des fichiers scss :
+
+cd themes/cnas compass clean && compass compile
+
+
+
+
