@@ -1,6 +1,6 @@
 
 
-Compass Doc
+#Compass Doc
 
 Compass is an open-source CSS authoring framework which uses the Sass stylesheet language to make writing stylesheets powerful and easy. If you're not familiar with Sass, Go to sass-lang.com to learn all about how it works.
 
@@ -9,7 +9,7 @@ Compass Help : http://compass-style.org/help/
 
 -------------------------------------------
 
-Utiliser Compass: 
+##Utiliser Compass: 
 
 Dossier sur VM avec le fichier   config.rb   
 ex: /var/www/public/drupal/themes/myboot >>>  config.rb
@@ -20,7 +20,7 @@ ex: /var/www/public/drupal/themes/myboot >>>  config.rb
 
 -------------------------------------------
 
-Ex de config.rb   :
+##Ex de config.rb   :
 
 http_path = "/"
 css_dir = "css" 
